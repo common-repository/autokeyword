@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2009-06-27 16:55+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ver Pangonilo <smpangonilo@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: autokeyword-options.php:70
+#: autokeyword-options.php:97
+msgid "Auto Keyword Options"
+msgstr ""
+
+#: autokeyword-options.php:76
+msgid "Updated"
+msgstr ""
+
+#: autokeyword-options.php:81
+msgid "No Auto Keyword Option Updated"
+msgstr ""
+
+#: autokeyword-options.php:97
+msgid "The <strong>Auto Keyword</strong> plugin default settings can be changed here to suit your particular requirement!"
+msgstr ""
+
+#: autokeyword-options.php:99
+#: autokeyword-options.php:261
+msgid "Save Changes"
+msgstr ""
+
+#: autokeyword-options.php:104
+msgid "User Added Keywords"
+msgstr ""
+
+#: autokeyword-options.php:105
+msgid "Add keywords to be included in the keyword list"
+msgstr ""
+
+#: autokeyword-options.php:108
+msgid "Added Keywords"
+msgstr ""
+
+#: autokeyword-options.php:116
+msgid "Excluded Common Words"
+msgstr ""
+
+#: autokeyword-options.php:117
+msgid "Enter keywords to be excluded in the keyword list"
+msgstr ""
+
+#: autokeyword-options.php:120
+msgid "Excluded Words"
+msgstr ""
+
+#: autokeyword-options.php:111
+#: autokeyword-options.php:123
+msgid "lease separate words with a comma (,)"
+msgstr ""
+
+#: autokeyword-options.php:128
+msgid "Meta Keywords Placement"
+msgstr ""
+
+#: autokeyword-options.php:129
+msgid "Placement of meta keywords will be Automatic or Manual"
+msgstr ""
+
+#: autokeyword-options.php:132
+msgid "Meta Keywords Setting"
+msgstr ""
+
+#: autokeyword-options.php:135
+msgid "Automatic"
+msgstr ""
+
+#: autokeyword-options.php:136
+msgid "Manual"
+msgstr ""
+
+#: autokeyword-options.php:138
+msgid "If set to Manual, do not forget to add <strong>&lt;?php autokeyword(); ?&gt;</strong><br />into your template <strong>header.php</strong>"
+msgstr ""
+
+#: autokeyword-options.php:144
+#: autokeyword-options.php:148
+msgid "Character Encoding"
+msgstr ""
+
+#: autokeyword-options.php:145
+msgid "Change the character encoding here"
+msgstr ""
+
+#: autokeyword-options.php:160
+msgid "Single Words"
+msgstr ""
+
+#: autokeyword-options.php:161
+msgid "Change the settings for single words here"
+msgstr ""
+
+#: autokeyword-options.php:164
+#: autokeyword-options.php:192
+#: autokeyword-options.php:227
+msgid "Word Length"
+msgstr ""
+
+#: autokeyword-options.php:170
+#: autokeyword-options.php:204
+#: autokeyword-options.php:240
+msgid "Occurrence"
+msgstr ""
+
+#: autokeyword-options.php:176
+msgid "Show Single Word"
+msgstr ""
+
+#: autokeyword-options.php:179
+#: autokeyword-options.php:213
+#: autokeyword-options.php:249
+msgid "Yes"
+msgstr ""
+
+#: autokeyword-options.php:180
+#: autokeyword-options.php:214
+#: autokeyword-options.php:250
+msgid "No"
+msgstr ""
+
+#: autokeyword-options.php:188
+msgid "2 Words Phrases"
+msgstr ""
+
+#: autokeyword-options.php:189
+msgid "Change the settings for 2 words phrases here"
+msgstr ""
+
+#: autokeyword-options.php:198
+msgid "Length of 2 Words Phrases"
+msgstr ""
+
+#: autokeyword-options.php:212
+msgid "Show 2 Word Phrase"
+msgstr ""
+
+#: autokeyword-options.php:223
+msgid "3 Words Phrases"
+msgstr ""
+
+#: autokeyword-options.php:224
+msgid "Change the settings for 3 words phrases here"
+msgstr ""
+
+#: autokeyword-options.php:234
+msgid "Length of 3 Words Phrases"
+msgstr ""
+
+#: autokeyword-options.php:246
+msgid "Show 3 Word Phrase"
+msgstr ""
+
+#: autokeyword.php:54
+msgid "Auto Keyword"
+msgstr ""
+
